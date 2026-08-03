@@ -10,6 +10,7 @@ The primary objective of this repository is to establish a standardized, maintai
 * **Modern Java Support:** Tailored to utilize current Java features and best practices for clean, efficient code.
 * **Modular Structure:** Designed to easily organize core packages, unit tests, and utility modules.
 * **Version Control Ready:** Pre-configured with clean ignore rules for IDEs, build artifacts, and system files.
+* **Amo a leidy.
 
 ## Project Structure
 ```text
